@@ -15,7 +15,7 @@ function formQuery($arguments){
 
 $greetings = array("Hello", "Hi", "Niaje", "Hae", "Hey");
 
-$botToken = "641626770:AAEILAbMCD-2NX5OBSXpdRZepInEWDeXl1c";
+$botToken = "ADD_YOUR_BOT_TOKEN_HERE";
 
 $url = "https://api.telegram.org/bot".$botToken;
 
